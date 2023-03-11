@@ -1,2 +1,2 @@
 # ctce
-Solution for Cracking the Coding Interview Problems.
+Solution for Cracking the Coding Interview Problems in C# / .NET 6
